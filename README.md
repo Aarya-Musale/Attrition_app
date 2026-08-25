@@ -29,7 +29,13 @@
 
 * **Confidence Scoring & Actionable Insights:** Color-coded diagnostic alerts with progress bars and tailored recommendations based on risk outcomes.
 
+## 📸 Application Preview
 
+Here is a look at the interactive web form and instant prediction result display:
+
+![Online Shopping Intent Predictor Interface](assets/ss.jpeg)
+
+(Note: Ensure your screenshot image file is placed inside an assets/ folder in your project directory, or update the path above to match where your image is saved).
 
 ---
 
